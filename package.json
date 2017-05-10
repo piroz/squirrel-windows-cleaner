@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "squirrel-windows-cleaner",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piroz/squirrel-windows-cleaner.git"
+  },
+  "author": "piroz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piroz/squirrel-windows-cleaner/issues"
+  },
+  "homepage": "https://github.com/piroz/squirrel-windows-cleaner#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  }
+}
